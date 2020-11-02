@@ -1,0 +1,30 @@
+---
+title: "Homework 9"
+output: html_document
+author: "Your Name"
+---
+
+
+## Data Analysis
+
+Download the candy data from: 
+  - https://www.scq.ubc.ca/so-much-candy-data-seriously/
+  
+We will be practicing creating publication quality figures from these data. 
+  
+### Table 1
+
+Delete this text and make a publication quality descriptive Table 1 and table caption for the candy data from 2017.
+
+### Best and worst candies 2017
+
+Delete this text and make a publication quality figure and figure caption explaining the most liked and disliked candies in 2017
+
+### Candies that are most different in 2017 by gender
+
+Delete this text and make a publication quality figure and figure caption explaining the biggest differences in candy preference by gender
+
+### Comparison between years
+
+Delete this text and for the candy that are available in both years make a publication quality figure and figure caption that shows the differences in
+rankings between 2016 and 2017 
