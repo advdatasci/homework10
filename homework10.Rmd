@@ -1,17 +1,19 @@
 ---
-title: "Homework 9"
+title: "Homework 10"
 output: html_document
 author: "Your Name"
 ---
 
 
-## Data Analysis
+## Data
 
 Download the candy data from: 
   - https://www.scq.ubc.ca/so-much-candy-data-seriously/
   
 We will be practicing creating publication quality figures from these data. 
   
+## Figures
+
 ### Table 1
 
 Delete this text and make a publication quality descriptive Table 1 and table caption for the candy data from 2017.
